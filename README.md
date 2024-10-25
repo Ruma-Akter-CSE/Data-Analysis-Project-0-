@@ -1,2 +1,2 @@
 ## Superstore Dashboard
-![Dashboard](Data-Analysis-Project-0-/SuperStore Dashboard.JPG)
+![Dashboard](Dashboard1.JPG)
