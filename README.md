@@ -1,4 +1,4 @@
-# Dashboard
+# Excel Dashboard
 # Table of content:
 
 ## Sales Dashboard
