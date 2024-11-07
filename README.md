@@ -16,11 +16,7 @@ This Sales Dashboard visually presents key sales metrics and insights, focusing 
 - Interactive Filters: Users can filter data by Group and Date, making it easy to drill down into specific time periods or branch details.
 - Visual Representation: Different chart types (line, pie, and bar) allow users to quickly grasp key insights at a glance.
 - Clear Metrics: Key metrics like "Total Sales Count" and "Total Sales Amount" are highlighted for a quick snapshot of overall sales performance.
-# Key Features
--Real-Time Data Insights: The dashboard updates dynamically based on the latest sales data.
--Interactive Filtering: Users can filter data by date range or specific categories for detailed analysis.
--User-Friendly Visuals: Clear and intuitive charts make complex data easy to interpret.
--Correlations and Trends: Provides actionable insights through metrics like correlation coefficient and sales trends over time.
+
 
 ## Superstore Dashboard
 ![Dashboard](Dashboard1.JPG)
